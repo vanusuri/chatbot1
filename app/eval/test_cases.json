@@ -1,0 +1,18 @@
+[
+  {
+    "id": "t1",
+    "input": "Thanks for resolving my credit card issue.",
+    "expected_category": "positive_feedback"
+  },
+  {
+    "id": "t2",
+    "input": "My debit card replacement still hasn't arrived.",
+    "expected_category": "negative_feedback"
+  },
+  {
+    "id": "t3",
+    "input": "Could you check the status of ticket 650932?",
+    "expected_category": "query",
+    "expected_ticket_number": "650932"
+  }
+]

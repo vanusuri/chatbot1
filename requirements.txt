@@ -1,0 +1,6 @@
+streamlit
+sqlalchemy
+pydantic
+python-dotenv
+openai==0.28.0
+numpy
